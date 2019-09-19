@@ -8,5 +8,6 @@ def main():
     print(fruits_dict['ぶどう'])
     print(fruits_dict['みかん'])
 
-    if __name__ == '__main__':
-        main()
+
+if __name__ == '__main__':
+    main()
